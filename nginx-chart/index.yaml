@@ -9,6 +9,6 @@ entries:
     name: nginxc
     type: application
     urls:
-    - https://github.com/akai257/argocd/tree/main/charts/charts/nginxc-0.1.0.tgz
+    - https://akai257.github.io/venkatkapisetti/nginx-chart/nginxc-0.1.0.tgz
     version: 0.1.0
 generated: "2022-04-21T16:42:01.895940362Z"
