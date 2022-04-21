@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-21T16:42:01.896604784Z"
+    description: A Helm chart for Kubernetes
+    digest: 3540db930540699f3417ddc47c6ac49af84d53fef059117a8b488a5d620dad5e
+    name: nginxc
+    type: application
+    urls:
+    - https://github.com/akai257/argocd/tree/main/charts/charts/nginxc-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-21T16:42:01.895940362Z"
